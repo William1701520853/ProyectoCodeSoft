@@ -1,0 +1,54 @@
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\AccesoDatos1.dll.config
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\AccesoDatos1.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\AccesoDatos1.pdb
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\ContratoAccesoDatos1.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\MySqlConnector.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\RepositorioFake1.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Memory.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\ContratoAccesoDatos1.pdb
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\RepositorioFake1.pdb
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\MySqlConnector.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Memory.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\source\repos\AccesoDatos1\obj\Debug\AccesoDatos1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AccesoDatos1\obj\Debug\AccesoDatos1.csproj.CopyComplete
+C:\Users\Usuario\source\repos\AccesoDatos1\obj\Debug\AccesoDatos1.dll
+C:\Users\Usuario\source\repos\AccesoDatos1\obj\Debug\AccesoDatos1.pdb
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\AccesoDatos1.dll.config
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\AccesoDatos1.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\AccesoDatos1.pdb
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\ContratoAccesoDatos1.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\MySqlConnector.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Memory.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\ContratoAccesoDatos1.pdb
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\MySqlConnector.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Memory.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\obj\Debug\AccesoDatos1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\obj\Debug\AccesoDatos1.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\obj\Debug\AccesoDatos1.dll
+C:\Users\Usuario\source\repos\Protecto petServices\AccesoDatos1\obj\Debug\AccesoDatos1.pdb
